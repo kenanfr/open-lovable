@@ -4,7 +4,7 @@ function Header() {
   return (
     <header className="bg-white text-black py-4 shadow-md">
       <div className="container mx-auto px-4 flex items-center justify-between">
-        <a href="/" className="text-xl font-bold">Apple (台灣)</a>
+        <a href="/" className="text-xl font-bold">新焦点</a>
         <nav>
           <ul className="flex space-x-6">
             <li><a href="#macbook-pro" className="hover:text-gray-500 transition-colors">MacBook Pro</a></li>

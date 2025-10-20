@@ -1,6 +1,6 @@
 import React from 'react';
 
-function AppleTV() {
+function AppleTV() {/* 
   const tvShows = [
     {
       title: 'K-Pop 跨界戰',
@@ -60,6 +60,6 @@ function AppleTV() {
       </div>
     </section>
   );
-}
+*/}
 
 export default AppleTV;
